@@ -109,8 +109,8 @@ We used IntelliJ IDEA’s debugger to:
 ## **📚 Additional Resources**
 
 * [Binary Search on GeeksForGeeks](https://www.geeksforgeeks.org/binary-search/)
-* [Baeldung: Arrays in Java](https://www.baeldung.com/java-arrays)
-* [Java Comparator Sorting](https://www.baeldung.com/java-8-comparator-comparing)
+* [Baeldung: Arrays in Java](https://www.w3schools.com/java/java_arrays.asp)
+* [Java Advanced Sorting](https://www.w3schools.com/java/java_advanced_sorting.asp)
 
 ---
 
